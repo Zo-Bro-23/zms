@@ -1,0 +1,15 @@
+{
+  "name": "zms",
+  "version": "1.0.0",
+  "description": "App to automatically send otps via SMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zohan Subhash",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "pg-promise": "^10.6.0"
+  }
+}
