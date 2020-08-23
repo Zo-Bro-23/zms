@@ -12,23 +12,23 @@ ZMS is an application designed to get rid of all those problems. You can use you
 
 ### Download and install Node.js from its official website
 
-![Screenshot (140)](C:\Users\zohan\Documents\Homeschool\Computer Science\NodeJS\zms\tutorial\Screenshot (140).png)
+![Screenshot (140)](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(140).png)
 
 ### Download my program folder as a zip file
 
-![Screenshot (136)](C:\Users\zohan\Documents\Homeschool\Computer Science\NodeJS\zms\tutorial\Screenshot (136).jpg)
+![Screenshot (136)](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(136).jpg)
 
 ### Extract the ZIP file
 
-![Screenshot (137)](C:\Users\zohan\Documents\Homeschool\Computer Science\NodeJS\zms\tutorial\Screenshot (137).jpg)
+![Screenshot (137)](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(137).jpg)
 
 ### Open your command line (Command prompt or Powershell on Windows, Terminal on Linux and Mac)
 
 ### Type in the command ```cd \yourDownloadFolder\zms-master``` on windows or the command ```cd ~/yourDownloadFolder/zms-master``` on Linux or Mac
 
-![Screenshot (138)](C:\Users\zohan\Documents\Homeschool\Computer Science\NodeJS\zms\tutorial\Screenshot (138).jpg)
+![Screenshot (138)](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(138).jpg)
 
-![Screenshot (139)](C:\Users\zohan\Documents\Homeschool\Computer Science\NodeJS\zms\tutorial\Screenshot (139).png)
+![Screenshot (139)](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(139).png)
 
 ### Type in the command ```npm i -g vercel```
 
