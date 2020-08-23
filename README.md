@@ -24,13 +24,32 @@ ZMS is an application designed to get rid of all those problems. You can use you
 
 ### Open your command line (Command prompt or Powershell on Windows, Terminal on Linux and Mac)
 
-### Type in the command ```cd \yourDownloadFolder\zms-master``` on windows or the command ```cd ~/yourDownloadFolder/zms-master``` on Linux or Mac
+### Type in the command ```cd \yourDownloadFolder\zms-master\backend``` on windows or the command ```cd ~/yourDownloadFolder/zms-master/backend``` on Linux or Mac - replace ```yourDownloadFolder``` with the complete file path of the extracted folder
 
 ![Screenshot (138)](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(138).jpg)
 
 ![Screenshot (139)](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(139).png)
 
-### Type in the command ```npm i -g vercel```
+### If you do not have an account in Vercel, go to https://vercel.com and create one
 
+![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(141).jpg)
 
+### Type in the command ```npm i -g vercel``` in your command line
 
+### You may be prompted to type in your login information
+
+![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(142).png)
+
+### You should still have a command line at your extracted folder
+
+### If so, type in the command 
+
+### If not, use ```cd yourExtractedFolderPath/backend/``` replacing yourExtractedFolderPath with your full path of the extracted folder
+
+### Type in the command ```npm install```
+
+![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(143).png)
+
+### Type in the command ```vercel``` and give the necessary details when prompted
+
+![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(144).png)
