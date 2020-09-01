@@ -53,3 +53,9 @@ ZMS is an application designed to get rid of all those problems. You can use you
 ### Type in the command ```vercel``` and give the necessary details when prompted
 
 ![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(144).png)
+
+### Copy the ```production url``` to your clipboard
+
+![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(145).png)
+
+### Download my app from Google Play Store
