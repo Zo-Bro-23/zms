@@ -75,3 +75,5 @@ ZMS is an application designed to get rid of all those problems. You can use you
 ### And, you're done. Just remember one thing: ***Don't close the app*** 
 
 ### Go to ```https://yourDomainName/receive?phone=yourPhoneNumber&otp=yourOTP``` and, you're all set. The SMS will go to the ```yourPhoneNumber``` with the OTP ```OTP```
+
+![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(164).png)
