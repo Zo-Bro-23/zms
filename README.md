@@ -58,4 +58,4 @@ ZMS is an application designed to get rid of all those problems. You can use you
 
 ![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(145).png)
 
-### Download my app from Google Play Store
+### Download my app from <a 

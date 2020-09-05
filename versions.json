@@ -1,5 +1,5 @@
-{
-  "1":{
+[
+  {
         "version-code": 1,
         "version-name": "1.0",
         "fixed-issues": "App rebooting needed to send OTPs, Multiple OTPs sent",
@@ -7,7 +7,7 @@
         "playStore-status": "rejected due to 'Requested permissions do not match core functionality of the app'",
         "date-applied": "Aug 27 2020"
       },
-  "2":{
+  {
         "version-code": 2,
         "version-name": "1.1.2",
         "fixed-issues": "Permissions requested do not match app functionality",
@@ -16,4 +16,4 @@
         "date-applied": "Sep 01 2020"
         
       }
-}
+    ]
