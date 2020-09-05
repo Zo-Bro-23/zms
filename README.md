@@ -64,5 +64,6 @@ ZMS is an application designed to get rid of all those problems. You can use you
 
 ### Copy the file to your phone through your preferred method and open it (I can't upload the app to Google Play Store as it violates their policy by sending SMSs in the background)
 
-### Open the file, you may have to give permissions to the app you are trying to open it from
+### Open the file, you may have to give permissions to the app you are trying to open it from (The screenshots are from another tutorial, Sorry!)
 
+![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200902-121218.jpg) ![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200902-121250.jpg)![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200902-121255.jpg)
