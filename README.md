@@ -64,6 +64,14 @@ ZMS is an application designed to get rid of all those problems. You can use you
 
 ### Copy the file to your phone through your preferred method and open it (I can't upload the app to Google Play Store as it violates their policy by sending SMSs in the background)
 
-### Open the file, you may have to give permissions to the app you are trying to open it from (The screenshots are from another tutorial, Sorry!)
+### Open the file, you may have to give permissions to the app you are trying to open it from
 
-![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200902-121218.jpg) ![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200902-121250.jpg)![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200902-121255.jpg)
+![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200902-121218.jpg)![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200902-121250.jpg)![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200902-121255.jpg)
+
+### Open the application, and type in the domain you copied in an earlier step, leaving the ```https://``` out
+
+![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200825-182808.jpg)![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200825-182711.jpg)![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200825-182714.jpg)![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200825-182729.jpg)![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot_20200825-182754.jpg)
+
+### And, you're done. Just remember one thing: ***Don't close the app*** 
+
+### Go to ```https://yourDomainName/receive?phone=yourPhoneNumber&otp=yourOTP``` and, you're all set. The SMS will go to the ```yourPhoneNumber``` with the OTP ```OTP```
