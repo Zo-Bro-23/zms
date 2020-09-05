@@ -60,3 +60,9 @@ ZMS is an application designed to get rid of all those problems. You can use you
 
 ### Download my app from <a href= "https://github.com/Zo-Bro-23/zms/raw/master/frontend/ZMS.apk">here</a>
 
+![](https://raw.githubusercontent.com/Zo-Bro-23/zms/master/tutorial/Screenshot%20(163).png)
+
+### Copy the file to your phone through your preferred method and open it (I can't upload the app to Google Play Store as it violates their policy by sending SMSs in the background)
+
+### Open the file, you may have to give permissions to the app you are trying to open it from
+
